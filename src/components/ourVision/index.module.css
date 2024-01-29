@@ -1,0 +1,33 @@
+.s1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Helvetica, arial, sans-serif;
+    background-color: rgb(246, 246, 246);
+}
+.container1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    position: relative;
+    background-color: rgb(246, 246, 246);
+}
+  .img{
+    width: 421%;
+    margin-left: 20px;
+    margin-top: 2%;
+    direction: rtl;
+    padding-right: 3%;
+}  
+.section2{
+    padding-right: 2%;
+    margin-right: 7%;
+    font-size: 18px;
+    background-color: rgb(246, 246, 246);
+}
+.pragraph{
+    font-size: 20px;
+}
